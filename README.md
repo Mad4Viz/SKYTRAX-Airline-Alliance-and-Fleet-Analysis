@@ -115,10 +115,21 @@ The standardisation rules were implemented through a comprehensive mapping funct
 
 The ETL pipeline consists of four main Jupyter notebooks, each handling specific aspects of data processing. The process transforms raw HTML and web data into structured, analysable datasets.
 
-## 1. Airline Table Parsing (1_Airline_Table_Parsing.ipynb)
 
-### Key Features:
+## 2. Initial Data Parsing & Cleaning (2_Data_Parsing.ipynb, 2_Data_Cleaning.ipynb)
+- [2a: Airline Parsing Table](https://github.com/Mad4Viz/SKYTRAX-Airline-Alliance-and-Fleet-Analysis/blob/main/2_parsed_airline_data.csv)
+- [2b: Airline Cleaning Table](https://github.com/Mad4Viz/SKYTRAX-Airline-Alliance-and-Fleet-Analysis/blob/main/2_Data_Cleaning.ipynb)
 
+### Parsing Phase:
+
+- Extracts raw data from HTML structure
+- Creates initial DataFrame with 28 columns including:
+    - IATA codes
+    - Airline details
+    - Base/hub information
+    - Fleet information
+ 
+  
 - Custom `AirlineHTMLParser` class for processing HTML airline tables
 - Robust error handling with logging implementation
 - Date standardisation to DD/MM/YYYY format
@@ -134,18 +145,6 @@ def standardize_date(date_str):
         return date_str
 
 ```
-
-
-## 2. Initial Data Parsing & Cleaning (2_Data_Parsing.ipynb, 2_Data_Cleaning.ipynb)
-
-### Parsing Phase:
-
-- Extracts raw data from HTML structure
-- Creates initial DataFrame with 28 columns including:
-    - IATA codes
-    - Airline details
-    - Base/hub information
-    - Fleet information
 
 ### Cleaning Phase:
 
@@ -178,6 +177,8 @@ def clean_fleet_size(value):
 
 ## 3. Aircraft Fleet Processing (3_Aircraft_Fleet_Data.ipynb)
 
+[3: Airline Aircraft Fleet Table](https://github.com/Mad4Viz/SKYTRAX-Airline-Alliance-and-Fleet-Analysis/blob/main/3_Aircraft_Fleet_Data.ipynb)
+
 ### Key Components:
 
 - Aircraft type standardisation
@@ -198,6 +199,9 @@ def standardize_aircraft_type(aircraft_type):
 ```
 
 ## 4. Cost Analysis (4_Airline_Fleet_Cost.ipynb)
+
+[4: Aircraft Cost Data](https://github.com/Mad4Viz/SKYTRAX-Airline-Alliance-and-Fleet-Analysis/blob/main/4_Airline_Fleet_Cost.ipynb)
+
 
 ### Features:
 
