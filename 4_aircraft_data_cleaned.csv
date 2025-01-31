@@ -1,0 +1,43 @@
+Aircraft model,Aircraft Link,Engine,Range,Typical Configuration,Additional Comments,New Price ($),New Price (£)
+BOEING 737 MAX 7,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-737-max-7,,,172,,99700000,77766000
+Airbus A318,http://www.axonaviation.com/commercial-aircraft/aircraft-data/airbus-a318,"GE, Pratt & Whitney","3,100 NM",107,,75100000,58578000
+Airbus A319,http://www.axonaviation.com/commercial-aircraft/aircraft-data/airbus-a319,"GE, International Aero Engines","3,700 nm",124,,89600000,69888000
+Airbus A320,http://www.axonaviation.com/commercial-aircraft/aircraft-data/airbus-a320,"GE, International Aero Engines","3,300 NM",150,,98000000,76440000
+Airbus A321,http://www.axonaviation.com/commercial-aircraft/aircraft-data/airbus-a321,"GE, International Aero Engines","3,200 NM",185,,114900000,89622000
+Airbus A330-200,http://www.axonaviation.com/commercial-aircraft/aircraft-data/airbus-a330-200,"ROLLS-ROYCE, GE, Pratt & Whitney","7,250 NM",247,,231500000,180570000
+Airbus A330-200F,http://www.axonaviation.com/commercial-aircraft/aircraft-data/airbus-a330-200f,"Pratt & Whitney, ROLLS-ROYCE","4,000 NM",,,234700000,183066000
+Airbus A330-300,http://www.axonaviation.com/commercial-aircraft/aircraft-data/airbus-a330-300,"ROLLS-ROYCE, GE, Pratt & Whitney","6,350 NM",277,,256400000,199992000
+Airbus A340-300,http://www.axonaviation.com/commercial-aircraft/aircraft-data/airbus-a340-300,CFM International,"7,300 NM",277,,219000000,170820000
+Airbus A350-900,http://www.axonaviation.com/commercial-aircraft/aircraft-data/airbus-a350-900lr,ROLLS-ROYCE,"8,100 NM",325,,308100000,240318000
+Airbus A350-1000,http://www.axonaviation.com/commercial-aircraft/aircraft-data/airbus-a350-1000,ROLLS-ROYCE,"7,950 NM",366,,355700000,277446000
+Airbus A380,http://www.axonaviation.com/commercial-aircraft/aircraft-data/airbus-a380,"ROLLS-ROYCE, Engine Alliance","8,200 NM",544,,350000000,273000000
+Boeing 737-700,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-737-700,"Pratt & Whitney, GE","3,440 NM",126,,89100000,69498000
+Boeing 737-800,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-737-800,"Pratt & Whitney, GE, ROLLS-ROYCE","3,115 NM",162,,106100000,82758000
+Boeing 737-900ER,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-737-900er,"Pratt & Whitney, GE","3,265 NM",178,,112600000,87828000
+Boeing 747-400,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-747-400,"Pratt & Whitney, GE, ROLLS-ROYCE","7,260 NM",410,,,
+Boeing 747-400F,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-747-400f,"Pratt & Whitney, GE, ROLLS-ROYCE","4,445 NM",,,,
+Boeing 747-8i,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-747-8i,GE,"7,730 NM",410,,418400000,326352000
+Boeing 757-200,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-757-200,"ROLLS-ROYCE, Pratt & Whitney","4,100 NM",200,,,
+Boeing 757-300,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-757-300,"ROLLS-ROYCE, Pratt & Whitney","3,595 NM",243,,,
+Boeing 767-300ER,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-767-300er,"Pratt & Whitney, GE, ROLLS-ROYCE","6,310 NM",269,,217900000,169962000
+Boeing 767-400ER,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-767-400er,"Pratt & Whitney, GE","5,625 NM",304,,,
+Boeing 777-200ER,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-777-200er,"Pratt & Whitney, GE, ROLLS-ROYCE","7,065 NM",313,,306600000,239148000
+Boeing 777-200LR,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-777-200lr,GE,"8,555 NM",317,,346900000,270582000
+Boeing 777-300ER,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-777-300er,GE,"7,370 NM",396,,375500000,292890000
+Boeing 777F,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-777f,GE,"4,970 NM",,,352300000,274794000
+Boeing 787-8,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-787-8,"GE, ROLLS-ROYCE","7,355 NM",242,,248300000,193674000
+Boeing 787-9,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-787-9,"GE, ROLLS-ROYCE","7,635 NM",290,,292500000,228150000
+Boeing 787-10,http://www.axonaviation.com/commercial-aircraft/aircraft-data/boeing-787-10,"GE , ROLLS-ROYCE","6,430 NM",330,,,
+Bombardier CRJ100ER/LR,http://www.axonaviation.com/commercial-aircraft/aircraft-data/bombardier-crj100,GE,"1,620 NM / 2,003 NM",50,,,
+Bombardier CRJ200ER/LR,http://www.axonaviation.com/commercial-aircraft/aircraft-data/bombardier-crj200,GE,"1,644 NM / 2,004 NM",50,,,
+Bombardier CRJ700ER,http://www.axonaviation.com/commercial-aircraft/aircraft-data/bombardier-crj700,GE,"1,378 NM",66,,,
+Bombardier CRJ900ER/LR,http://www.axonaviation.com/commercial-aircraft/aircraft-data/bombardier-crj900,GE,"1,317 NM / 1,553 NM",79,,,
+Bombardier CRJ1000ER,http://www.axonaviation.com/commercial-aircraft/aircraft-data/bombardier-crj1000,GE,"1,622 NM",50,,,
+Embraer 170LR,http://www.axonaviation.com/commercial-aircraft/aircraft-data/embraer-170,GE,"2,100 NM",70,,26500000,20670000
+Embraer 175,http://www.axonaviation.com/commercial-aircraft/aircraft-data/embraer-175,GE,"2,150 NM",78,,28000000,21840000
+Embraer 190,http://www.axonaviation.com/commercial-aircraft/aircraft-data/embraer-190,GE,"2,400 NM",94,,32000000,24960000
+Embraer 195,http://www.axonaviation.com/commercial-aircraft/aircraft-data/embraer-195,GE,"2,000 NM",106,,40000000,31200000
+Bombardier CSeries CS100,,,,,,81000000,63180000
+Bombardier CSeries CS300,,,,,,91500000,71370000
+Bombardier DHC-8,,,,,,27000000,21060000
+Airbus A220,,,,,,91500000,71370000
