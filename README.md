@@ -56,11 +56,14 @@ A comprehensive analysis of the world's top 10 airlines according to SKYTRAX 202
 
 ## Database Schema
 
+The project uses a relational database structure with four main tables:
+
+
 <img width="719" alt="image" src="https://github.com/user-attachments/assets/3e9e64c6-37b4-45c3-9228-3d333e39f966" />
 
 
 
-The project uses a relational database structure with four main tables:
+
 
 1. **AIRLINE_BASE** (Primary Table)
     - Manually created from SKYTRAX rankings
