@@ -56,7 +56,9 @@ A comprehensive analysis of the world's top 10 airlines according to SKYTRAX 202
 
 ## Database Schema
 
-![image 23](https://github.com/user-attachments/assets/56367c6d-abc9-4525-8511-e1c536a850f6)
+<img width="719" alt="image" src="https://github.com/user-attachments/assets/3e9e64c6-37b4-45c3-9228-3d333e39f966" />
+
+
 
 The project uses a relational database structure with four main tables:
 
@@ -72,6 +74,7 @@ The project uses a relational database structure with four main tables:
     - Individual aircraft information
     - Registration and configuration details
     - Links to both airline and pricing data
+    - Foreign key link to AIRCRAFT_PRICING
 4. **AIRCRAFT_PRICING**
     - Aircraft model pricing information
     - Market values in GBP and USD
